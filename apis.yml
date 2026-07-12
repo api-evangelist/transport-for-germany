@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: http://data.deutschebahn.com/dataset/api-fahrplan
 common:
+  - type: VulnerabilityDisclosure
+    url: security/transport-for-germany-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/transport-for-germany-domain-security.yml
   - type: Website
     url: http://data.deutschebahn.com/dataset/api-fahrplan
   - type: PublicAPIsListing
