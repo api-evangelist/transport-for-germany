@@ -39,7 +39,6 @@ apis:
   - name: Transport for Germany
     description: "Deutsche Bahn (DB) API"
     humanURL: http://data.deutschebahn.com/dataset/api-fahrplan
-    baseURL: http://data.deutschebahn.com/dataset/api-fahrplan
     tags:
       - Transportation
     properties:
